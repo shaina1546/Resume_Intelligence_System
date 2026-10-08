@@ -1,0 +1,13 @@
+[theme]
+# Color scheme — professional, clean look
+primaryColor = "#4A90D9"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+# Do not open a browser tab automatically on every run (optional preference)
+headless = false
+# Maximum upload size in MB — resumes are small; 10 MB is more than enough
+maxUploadSize = 10

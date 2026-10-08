@@ -1,0 +1,120 @@
+Skill,Category,Aliases
+Python,Programming,py;python3
+Java,Programming,java8;java11;java17
+C,Programming,c language
+C++,Programming,cpp;c plus plus
+C#,Programming,csharp;c sharp
+JavaScript,Programming,js;javascript
+TypeScript,Programming,ts;typescript
+Go,Programming,golang
+Rust,Programming,
+PHP,Programming,
+Ruby,Programming,
+Swift,Programming,
+Kotlin,Programming,
+R,Programming,r language;r programming
+MATLAB,Programming,
+Scala,Programming,
+Perl,Programming,
+Shell Scripting,Programming,bash;shell;bash scripting
+SQL,Database,structured query language
+MySQL,Database,my sql
+PostgreSQL,Database,postgres;postgresql
+MongoDB,Database,mongo
+SQLite,Database,
+Redis,Database,
+Cassandra,Database,
+Oracle,Database,oracle db;oracle database
+Microsoft SQL Server,Database,mssql;sql server
+Firebase,Database,
+DynamoDB,Database,dynamo db;aws dynamodb
+HTML,Web,html5;hyper text markup language
+CSS,Web,css3;cascading style sheets
+React,Web,reactjs;react.js;react js
+Angular,Web,angularjs;angular js
+Vue.js,Web,vuejs;vue js;vue
+Node.js,Web,nodejs;node js
+Django,Web,
+Flask,Web,
+FastAPI,Web,fast api
+Spring Boot,Web,springboot;spring
+Express.js,Web,expressjs;express js;express
+Bootstrap,Web,
+jQuery,Web,jquery
+REST API,Web,restful api;rest apis;restful;rest
+GraphQL,Web,
+Machine Learning,AI/ML,ML;machine learning
+Deep Learning,AI/ML,DL;deep learning
+Natural Language Processing,AI/ML,NLP;natural language processing
+Computer Vision,AI/ML,CV;computer vision
+Reinforcement Learning,AI/ML,RL;reinforcement learning
+TensorFlow,AI/ML,tensorflow;tf
+PyTorch,AI/ML,pytorch;torch
+Scikit-learn,AI/ML,sklearn;scikit learn;scikitlearn
+Keras,AI/ML,
+XGBoost,AI/ML,xgboost
+LightGBM,AI/ML,lightgbm;light gbm
+Hugging Face,AI/ML,huggingface;transformers
+OpenCV,AI/ML,cv2;open cv
+Pandas,Data Science,
+NumPy,Data Science,numpy
+Matplotlib,Data Science,
+Seaborn,Data Science,
+Plotly,Data Science,
+SciPy,Data Science,scipy
+Jupyter,Data Science,jupyter notebook;jupyter lab
+Data Analysis,Data Science,data analytics;analytical skills
+Statistics,Data Science,statistical analysis;statistical modeling
+Power BI,BI/Analytics,powerbi;power bi
+Tableau,BI/Analytics,
+Excel,BI/Analytics,microsoft excel;ms excel
+Google Analytics,BI/Analytics,
+Looker,BI/Analytics,
+AWS,Cloud,amazon web services;amazon aws
+Azure,Cloud,microsoft azure;ms azure
+GCP,Cloud,google cloud;google cloud platform
+Docker,DevOps,
+Kubernetes,DevOps,k8s;kube
+Terraform,DevOps,
+Ansible,DevOps,
+Jenkins,DevOps,
+GitHub Actions,DevOps,github actions;gh actions
+CI/CD,DevOps,continuous integration;continuous delivery;continuous deployment
+Linux,OS/Systems,unix;linux os
+Windows Server,OS/Systems,windows server
+Git,Tools,git version control;version control
+GitHub,Tools,
+GitLab,Tools,gitlab
+Jira,Tools,
+Confluence,Tools,
+Postman,Tools,
+VS Code,Tools,vscode;visual studio code
+IntelliJ IDEA,Tools,intellij
+Agile,Methodology,agile methodology
+Scrum,Methodology,scrum methodology
+Kanban,Methodology,
+DevOps,Methodology,dev ops
+Microservices,Architecture,microservice architecture
+System Design,Architecture,system architecture
+Object-Oriented Programming,Programming,OOP;object oriented;oo programming
+Data Structures,CS Fundamentals,data structure;dsa
+Algorithms,CS Fundamentals,algorithm design
+Design Patterns,CS Fundamentals,
+Network Security,Security,cybersecurity;cyber security
+Cryptography,Security,
+Penetration Testing,Security,pentesting;pen testing
+Spark,Big Data,apache spark
+Hadoop,Big Data,apache hadoop
+Kafka,Big Data,apache kafka
+Airflow,Big Data,apache airflow
+ETL,Data Engineering,extract transform load
+Data Warehousing,Data Engineering,data warehouse
+DBT,Data Engineering,dbt;data build tool
+Communication,Soft Skills,
+Problem Solving,Soft Skills,problem-solving
+Teamwork,Soft Skills,team work;collaboration
+Leadership,Soft Skills,team leadership
+Project Management,Soft Skills,project manager;pm
+Time Management,Soft Skills,
+Critical Thinking,Soft Skills,
+Attention to Detail,Soft Skills,detail oriented;detail-oriented

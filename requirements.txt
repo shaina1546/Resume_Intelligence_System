@@ -1,0 +1,46 @@
+# ============================================================
+# Resume Intelligence System - Requirements
+# ============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# NOTE: sentence-transformers pulls torch, which is large (~1GB).
+# If you are on a low-resource machine or slow network, the app
+# will automatically fall back to TF-IDF cosine similarity.
+# ============================================================
+
+# --- Web / UI ---
+streamlit>=1.32.0
+
+# --- PDF Extraction ---
+PyMuPDF>=1.23.0          # imported as "fitz"
+
+# --- NLP ---
+spacy>=3.7.0
+# After installing, download the English model:
+#   python -m spacy download en_core_web_sm
+nltk>=3.8.0
+
+# --- Machine Learning ---
+scikit-learn>=1.4.0
+
+# --- Semantic Similarity (optional but recommended) ---
+sentence-transformers>=2.6.0
+
+# --- Data Handling ---
+pandas>=2.1.0
+numpy>=1.26.0
+
+# --- Visualization ---
+plotly>=5.20.0
+
+# --- Database ---
+# sqlite3 is part of the Python standard library, no extra install needed.
+
+# --- Utilities ---
+python-dotenv>=1.0.0     # load .env variables
+tqdm>=4.66.0             # progress bars (used by sentence-transformers)
+
+# --- Testing ---
+pytest>=8.0.0
+pytest-cov>=4.1.0        # code coverage reports

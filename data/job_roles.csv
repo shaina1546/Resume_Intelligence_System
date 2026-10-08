@@ -1,0 +1,21 @@
+Job Role,Skills,Description
+Data Analyst,Python;SQL;Excel;Power BI;Tableau;Statistics;Data Analysis;Pandas;NumPy;Matplotlib;Seaborn,Analyze data to help businesses make better decisions using statistical tools and visualizations.
+Data Scientist,Python;SQL;Statistics;Machine Learning;Pandas;NumPy;Scikit-learn;Matplotlib;Seaborn;Jupyter;Deep Learning,Build predictive models and extract insights from large datasets using machine learning.
+Machine Learning Engineer,Python;Machine Learning;TensorFlow;PyTorch;Scikit-learn;Docker;SQL;Git;Deep Learning;NumPy;Pandas,Design and deploy machine learning systems and models at scale.
+NLP Engineer,Python;Natural Language Processing;Machine Learning;Hugging Face;Deep Learning;TensorFlow;PyTorch;Scikit-learn;Pandas;Transformers,Build systems that understand and process human language.
+AI Engineer,Python;Machine Learning;Deep Learning;TensorFlow;PyTorch;Docker;Kubernetes;Git;REST API;Natural Language Processing,Design and implement artificial intelligence solutions and systems.
+Computer Vision Engineer,Python;Computer Vision;TensorFlow;PyTorch;OpenCV;Deep Learning;NumPy;Docker;Machine Learning,Build systems that interpret and analyze visual data from images and videos.
+Data Engineer,Python;SQL;Apache Spark;Hadoop;Kafka;Airflow;ETL;Data Warehousing;AWS;Azure;Docker;DBT,Build and maintain data pipelines and infrastructure for analytics.
+Backend Developer,Python;Java;SQL;REST API;Django;FastAPI;Flask;Docker;Git;PostgreSQL;Redis;Microservices,Build server-side application logic, APIs, and databases.
+Full Stack Developer,JavaScript;TypeScript;React;Node.js;SQL;REST API;HTML;CSS;Git;Docker;Python,Build both frontend user interfaces and backend services.
+Frontend Developer,JavaScript;TypeScript;React;Angular;Vue.js;HTML;CSS;Bootstrap;jQuery;Git;REST API,Build the visual and interactive parts of web applications.
+DevOps Engineer,Docker;Kubernetes;Terraform;Ansible;Jenkins;GitHub Actions;CI/CD;Linux;AWS;Azure;Git;Python,Automate and streamline software delivery and infrastructure management.
+Cloud Engineer,AWS;Azure;GCP;Docker;Kubernetes;Terraform;Linux;Python;Git;CI/CD,Design, build, and manage cloud infrastructure and services.
+Cybersecurity Analyst,Network Security;Cryptography;Penetration Testing;Linux;Python;SQL;Scripting,Protect systems and networks from security threats and vulnerabilities.
+Software Engineer,Python;Java;C++;Data Structures;Algorithms;Git;SQL;Object-Oriented Programming;Design Patterns,Design and develop software applications and systems.
+iOS Developer,Swift;Objective-C;Xcode;REST API;Git;Agile,Build native iOS applications for iPhone and iPad.
+Android Developer,Kotlin;Java;Android;REST API;SQL;Git;Agile,Build native Android applications for mobile devices.
+Database Administrator,SQL;MySQL;PostgreSQL;Oracle;MongoDB;Redis;Data Warehousing;Linux,Manage, optimize, and secure database systems.
+Business Intelligence Developer,SQL;Power BI;Tableau;Python;Excel;Data Analysis;ETL;Data Warehousing,Build dashboards and reports to help businesses understand their data.
+Research Scientist,Python;Machine Learning;Deep Learning;TensorFlow;PyTorch;Statistics;Pandas;NumPy;LaTeX;Jupyter,Conduct research and develop novel algorithms and models.
+Embedded Systems Engineer,C;C++;Python;Linux;MATLAB;Real-Time Systems;Hardware;Microcontrollers,Develop software for embedded hardware and real-time systems.
