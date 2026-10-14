@@ -1,0 +1,14 @@
+Python Backend Developer
+Required Skills
+Python
+Django or Flask
+REST API
+SQL
+PostgreSQL
+Git
+Docker
+Preferred Skills
+Redis
+AWS
+Experience
+3+ years of backend development experience.

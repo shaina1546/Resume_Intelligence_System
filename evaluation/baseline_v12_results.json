@@ -1,0 +1,264 @@
+{
+  "version": "1.2",
+  "cases": 24,
+  "passed": 0,
+  "results": [
+    {
+      "id": "backend_full",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 70,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "backend_partial",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 35,
+      "coverage": 50,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "backend_nonmatch",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 1,
+      "coverage": 0,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "frontend_full",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 64,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "frontend_partial",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 53,
+      "coverage": 75,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "data_aliases",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 63,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "data_analyst",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "ml_missing_framework",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 48,
+      "coverage": 67,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "cloud_or",
+      "passed": false,
+      "failures": [
+        "missing: expected [], got ['Azure']",
+        "phone mismatch"
+      ],
+      "overall_score": 52,
+      "coverage": 75,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "framework_or",
+      "passed": false,
+      "failures": [
+        "missing: expected [], got ['Django']",
+        "phone mismatch"
+      ],
+      "overall_score": 52,
+      "coverage": 75,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "framework_both",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "or_group_missing",
+      "passed": false,
+      "failures": [
+        "missing: expected ['Django or Flask'], got ['Django', 'Flask']",
+        "phone mismatch"
+      ],
+      "overall_score": 35,
+      "coverage": 50,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "security_partial",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 48,
+      "coverage": 67,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "android_full",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 71,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "ios_full",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 69,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "design_full",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "preferred_section",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "mixed_clauses",
+      "passed": false,
+      "failures": [
+        "required: expected ['Python'], got []",
+        "matched: expected ['Python'], got []",
+        "preferred: expected ['Docker'], got ['Docker', 'Python']",
+        "phone mismatch"
+      ],
+      "overall_score": 2,
+      "coverage": 0,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "explicit_not_employer_stack",
+      "passed": false,
+      "failures": [
+        "required: expected ['Python'], got ['AWS', 'Java', 'Python']",
+        "missing: expected [], got ['AWS', 'Java']",
+        "phone mismatch"
+      ],
+      "overall_score": 23,
+      "coverage": 33,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "negated_resume",
+      "passed": false,
+      "failures": [
+        "matched: expected ['Git'], got ['Git', 'Python']",
+        "missing: expected ['Python'], got []",
+        "phone mismatch"
+      ],
+      "overall_score": 64,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "negated_jd",
+      "passed": false,
+      "failures": [
+        "required: expected ['Python'], got ['Docker', 'Python']",
+        "matched: expected ['Python'], got ['Docker', 'Python']",
+        "phone mismatch"
+      ],
+      "overall_score": 64,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "prose_fallback",
+      "passed": false,
+      "failures": [
+        "required: expected ['Python', 'Django'], got []",
+        "matched: expected ['Python', 'Django'], got []",
+        "preferred: expected ['Docker'], got ['Django', 'Docker', 'Python']",
+        "phone mismatch"
+      ],
+      "overall_score": 3,
+      "coverage": 0,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "punctuated_languages",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 69,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    },
+    {
+      "id": "two_column",
+      "passed": false,
+      "failures": [
+        "phone mismatch"
+      ],
+      "overall_score": 71,
+      "coverage": 100,
+      "requirement_source": "legacy"
+    }
+  ],
+  "skill_field_cases_passed": 16,
+  "interpretation": "All legacy cases fail exact phone validation (country prefix lost). Skill-field failures are reported separately; total case pass is stricter than skill extraction accuracy."
+}

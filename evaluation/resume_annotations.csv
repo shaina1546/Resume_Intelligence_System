@@ -1,0 +1,4 @@
+resume_id,true_name,true_email,true_phone,true_skills,true_education,notes
+# Fill in one row per resume. Use semicolons to separate multiple skills.
+# Example:
+# R001,Jane Smith,jane@example.com,+1-555-0100,Python;SQL;Machine Learning,B.Sc. Computer Science,

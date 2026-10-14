@@ -1,0 +1,12 @@
+Riya Kapoor
+riya@example.com
+Summary
+Backend developer with four years of documented application work.
+Technical Skills
+Python, Django, REST API, SQL, PostgreSQL, Git, Docker, Linux
+Redis, AWS
+Work Experience
+Backend Developer at Example Organisation, 2022-2026
+Built appointment services with Python and Django. Optimised SQL queries and packaged services with Docker.
+Education
+Bachelor of Technology, Computer Science, 2022

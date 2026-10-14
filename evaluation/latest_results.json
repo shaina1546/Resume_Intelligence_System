@@ -1,0 +1,199 @@
+{
+  "dataset": "24 hand-authored synthetic cases; development regression set, not held-out real data",
+  "cases": 24,
+  "passed": 24,
+  "results": [
+    {
+      "id": "backend_full",
+      "passed": true,
+      "failures": [],
+      "overall_score": 70,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "backend_partial",
+      "passed": true,
+      "failures": [],
+      "overall_score": 35,
+      "coverage": 50,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "backend_nonmatch",
+      "passed": true,
+      "failures": [],
+      "overall_score": 1,
+      "coverage": 0,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "frontend_full",
+      "passed": true,
+      "failures": [],
+      "overall_score": 64,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "frontend_partial",
+      "passed": true,
+      "failures": [],
+      "overall_score": 53,
+      "coverage": 75,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "data_aliases",
+      "passed": true,
+      "failures": [],
+      "overall_score": 63,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "data_analyst",
+      "passed": true,
+      "failures": [],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "ml_missing_framework",
+      "passed": true,
+      "failures": [],
+      "overall_score": 48,
+      "coverage": 67,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "cloud_or",
+      "passed": true,
+      "failures": [],
+      "overall_score": 68,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "framework_or",
+      "passed": true,
+      "failures": [],
+      "overall_score": 68,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "framework_both",
+      "passed": true,
+      "failures": [],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "or_group_missing",
+      "passed": true,
+      "failures": [],
+      "overall_score": 45,
+      "coverage": 67,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "security_partial",
+      "passed": true,
+      "failures": [],
+      "overall_score": 48,
+      "coverage": 67,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "android_full",
+      "passed": true,
+      "failures": [],
+      "overall_score": 71,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "ios_full",
+      "passed": true,
+      "failures": [],
+      "overall_score": 69,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "design_full",
+      "passed": true,
+      "failures": [],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "preferred_section",
+      "passed": true,
+      "failures": [],
+      "overall_score": 67,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "mixed_clauses",
+      "passed": true,
+      "failures": [],
+      "overall_score": 63,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "explicit_not_employer_stack",
+      "passed": true,
+      "failures": [],
+      "overall_score": 65,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "negated_resume",
+      "passed": true,
+      "failures": [],
+      "overall_score": 33,
+      "coverage": 50,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "negated_jd",
+      "passed": true,
+      "failures": [],
+      "overall_score": 64,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "prose_fallback",
+      "passed": true,
+      "failures": [],
+      "overall_score": 64,
+      "coverage": 100,
+      "requirement_source": "inferred_prose"
+    },
+    {
+      "id": "punctuated_languages",
+      "passed": true,
+      "failures": [],
+      "overall_score": 69,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    },
+    {
+      "id": "two_column",
+      "passed": true,
+      "failures": [],
+      "overall_score": 69,
+      "coverage": 100,
+      "requirement_source": "explicit_sections"
+    }
+  ]
+}

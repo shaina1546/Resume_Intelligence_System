@@ -1,0 +1,4 @@
+jd_id,true_title,true_required_skills,true_preferred_skills,true_education,notes
+# Fill in one row per job description.
+# Example:
+# JD001,Data Scientist,Python;SQL;Machine Learning,Deep Learning;Spark,B.Sc. in a quantitative field,

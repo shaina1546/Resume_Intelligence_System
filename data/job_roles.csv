@@ -1,0 +1,23 @@
+Job Role,Skills,Optional Skills,Essential Skills,Description
+Data Analyst,Python|R;SQL;Excel;Power BI|Tableau;Statistics;Data Analysis,Pandas;NumPy;Matplotlib;Seaborn,Data Analysis;SQL,Analyse data and create reports that support business decisions.
+Data Scientist,Python|R;SQL;Statistics;Machine Learning;Pandas;Scikit-learn,NumPy;Matplotlib;Seaborn;Jupyter;Deep Learning,Machine Learning;Statistics,Build predictive models and extract insights from datasets.
+Machine Learning Engineer,Python;Machine Learning;TensorFlow|PyTorch;Scikit-learn;Docker;Git,SQL;Deep Learning;NumPy;Pandas,Machine Learning;TensorFlow|PyTorch,"Develop, test, and deploy machine learning models and services."
+NLP Engineer,Python;Natural Language Processing;Machine Learning;Hugging Face;TensorFlow|PyTorch,Deep Learning;Scikit-learn;Pandas,Natural Language Processing,Build applications that process and analyse human language.
+AI Engineer,Python;Machine Learning;Deep Learning;TensorFlow|PyTorch;REST API,Docker;Kubernetes;Git;Natural Language Processing,Machine Learning;Deep Learning,Design and implement artificial intelligence applications.
+Computer Vision Engineer,Python;Computer Vision;TensorFlow|PyTorch;OpenCV;Machine Learning,Deep Learning;NumPy;Docker,Computer Vision;OpenCV,Build applications that interpret images and video.
+Data Engineer,Python;SQL;Spark|Hadoop;ETL;Airflow;AWS|Azure|GCP,Kafka;Data Warehousing;Docker;DBT,ETL;SQL,"Build, operate, and maintain data pipelines and storage systems."
+Backend Developer,Python|Java|JavaScript;Django|FastAPI|Flask|Spring Boot|Express.js;SQL;REST API;Git;PostgreSQL|MySQL|SQLite;Docker,Redis;Microservices;Linux,Django|FastAPI|Flask|Spring Boot|Express.js;REST API,"Build server-side application logic, APIs, and databases."
+Full Stack Developer,JavaScript|TypeScript;React|Angular|Vue.js;Node.js|Django|Flask;SQL;REST API;HTML;CSS;Git,Docker;Python,React|Angular|Vue.js;Node.js|Django|Flask,Build frontend interfaces and the backend services that support them.
+Frontend Developer,JavaScript|TypeScript;React|Angular|Vue.js;HTML;CSS;Git;REST API,Bootstrap;jQuery,JavaScript|TypeScript;React|Angular|Vue.js,Build accessible user interfaces for web applications.
+DevOps Engineer,Docker;Kubernetes;Terraform|Ansible;CI/CD;Linux;AWS|Azure|GCP;Git,Python;Jenkins;GitHub Actions,Docker;Linux,Automate application releases and maintain delivery infrastructure.
+Cloud Engineer,AWS|Azure|GCP;Docker;Kubernetes;Terraform;Linux;Git;CI/CD,Python,AWS|Azure|GCP;Linux,"Design, build, and manage cloud infrastructure and services."
+Cybersecurity Analyst,Network Security;Penetration Testing;Linux;Python|Shell Scripting,Cryptography;SQL,Network Security,Identify and investigate security threats to systems and networks.
+Software Engineer,Python|Java|C++;Data Structures;Algorithms;Git;Object-Oriented Programming,SQL;Design Patterns,Data Structures;Algorithms,"Design, develop, and maintain software applications."
+iOS Developer,Swift|Objective-C;Xcode;REST API;Git,Agile,Swift|Objective-C;Xcode,Build native applications for iPhone and iPad.
+Android Developer,Kotlin|Java;Android;REST API;Git,SQL;Agile,Kotlin|Java;Android,Build native applications for Android devices.
+Database Administrator,SQL;MySQL|PostgreSQL|Oracle;Linux;Data Warehousing,MongoDB;Redis,SQL;MySQL|PostgreSQL|Oracle,"Manage, optimise, and secure database systems."
+Business Intelligence Developer,SQL;Power BI|Tableau;Excel;Data Analysis;ETL;Data Warehousing,Python,Power BI|Tableau;Data Analysis,Build dashboards and reports that explain business performance.
+Research Scientist,Python;Machine Learning;Deep Learning;TensorFlow|PyTorch;Statistics,Pandas;NumPy;LaTeX;Jupyter,Machine Learning;Statistics,Research new algorithms and evaluate experimental models.
+Embedded Systems Engineer,C|C++;Linux;Real-Time Systems;Microcontrollers,Python;MATLAB;Hardware,C|C++;Microcontrollers,Develop software for embedded devices and real-time systems.
+Graphic Designer,Adobe Photoshop;Adobe Illustrator;Typography;Brand Identity;Adobe InDesign|Figma;Print Production|Packaging Design,Editorial Layout;Communication;Teamwork;Project Management,Adobe Photoshop;Adobe Illustrator,"Create brand identities, marketing artwork, and publication layouts."
+Visual Designer,Figma|Adobe Illustrator;Typography;Brand Identity;Adobe Photoshop,Adobe InDesign;Packaging Design;Communication,Figma|Adobe Illustrator;Typography,Create visual systems and polished artwork for digital and print products.

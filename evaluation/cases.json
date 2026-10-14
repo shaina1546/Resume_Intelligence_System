@@ -1,0 +1,474 @@
+[
+  {
+    "id": "backend_full",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Django, SQL, Git\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Backend Developer\nRequired Skills: Python, Django, SQL, Git",
+    "expected_required": [
+      "Python",
+      "Django",
+      "SQL",
+      "Git"
+    ],
+    "expected_matched": [
+      "Python",
+      "Django",
+      "SQL",
+      "Git"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "backend_partial",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Git\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python, Django, SQL, Git",
+    "expected_required": [
+      "Python",
+      "Django",
+      "SQL",
+      "Git"
+    ],
+    "expected_matched": [
+      "Python",
+      "Git"
+    ],
+    "expected_missing": [
+      "Django",
+      "SQL"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "backend_nonmatch",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nFigma, Typography\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python, Django, SQL",
+    "expected_required": [
+      "Python",
+      "Django",
+      "SQL"
+    ],
+    "expected_matched": [],
+    "expected_missing": [
+      "Python",
+      "Django",
+      "SQL"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "frontend_full",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nJS, React.js, HTML5, CSS3, Git\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: JavaScript, React, HTML, CSS, Git",
+    "expected_required": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "expected_matched": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "frontend_partial",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nJavaScript, HTML, CSS\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: JavaScript, React, HTML, CSS",
+    "expected_required": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "expected_matched": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "expected_missing": [
+      "React"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "data_aliases",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nML, NLP, sklearn, Postgres\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Machine Learning, Natural Language Processing, Scikit-learn, PostgreSQL",
+    "expected_required": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Scikit-learn",
+      "PostgreSQL"
+    ],
+    "expected_matched": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Scikit-learn",
+      "PostgreSQL"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "data_analyst",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nExcel, SQL, PowerBI, Statistics\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Excel, SQL, Power BI, Statistics",
+    "expected_required": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Statistics"
+    ],
+    "expected_matched": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Statistics"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "ml_missing_framework",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Machine Learning, Git\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python, Machine Learning, PyTorch",
+    "expected_required": [
+      "Python",
+      "Machine Learning",
+      "PyTorch"
+    ],
+    "expected_matched": [
+      "Python",
+      "Machine Learning"
+    ],
+    "expected_missing": [
+      "PyTorch"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "cloud_or",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nAWS, Linux, Git\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: AWS or Azure\nLinux\nGit",
+    "expected_required": [
+      "AWS",
+      "Azure",
+      "Linux",
+      "Git"
+    ],
+    "expected_matched": [
+      "AWS",
+      "Linux",
+      "Git"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "framework_or",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Flask, SQL\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python\nDjango or Flask\nSQL",
+    "expected_required": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQL"
+    ],
+    "expected_matched": [
+      "Python",
+      "Flask",
+      "SQL"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "framework_both",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Flask, Django, SQL\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python\nDjango or Flask\nSQL",
+    "expected_required": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQL"
+    ],
+    "expected_matched": [
+      "Python",
+      "Flask",
+      "Django",
+      "SQL"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "or_group_missing",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, SQL\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python\nDjango or Flask\nSQL",
+    "expected_required": [
+      "Python",
+      "Django",
+      "Flask",
+      "SQL"
+    ],
+    "expected_matched": [
+      "Python",
+      "SQL"
+    ],
+    "expected_missing": [
+      "Django or Flask"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "security_partial",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nLinux, Network Security\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Linux, Network Security, Penetration Testing",
+    "expected_required": [
+      "Linux",
+      "Network Security",
+      "Penetration Testing"
+    ],
+    "expected_matched": [
+      "Linux",
+      "Network Security"
+    ],
+    "expected_missing": [
+      "Penetration Testing"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "android_full",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nKotlin, Android, Git\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Kotlin, Android, Git",
+    "expected_required": [
+      "Kotlin",
+      "Android",
+      "Git"
+    ],
+    "expected_matched": [
+      "Kotlin",
+      "Android",
+      "Git"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "ios_full",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nSwift, Xcode, REST APIs\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Swift, Xcode, REST API",
+    "expected_required": [
+      "Swift",
+      "Xcode",
+      "REST API"
+    ],
+    "expected_matched": [
+      "Swift",
+      "Xcode",
+      "REST API"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "design_full",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPhotoshop, Illustrator, InDesign, Figma, Typography\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma, Typography",
+    "expected_required": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Figma",
+      "Typography"
+    ],
+    "expected_matched": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Figma",
+      "Typography"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "preferred_section",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, SQL\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python, SQL\nPreferred Skills: Docker, Kubernetes",
+    "expected_required": [
+      "Python",
+      "SQL"
+    ],
+    "expected_matched": [
+      "Python",
+      "SQL"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "mixed_clauses",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Requirements\nPython required; Docker preferred.",
+    "expected_required": [
+      "Python"
+    ],
+    "expected_matched": [
+      "Python"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [
+      "Docker"
+    ],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "explicit_not_employer_stack",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "About the Job\nOur organisation uses Java and AWS.\nRequired Skills: Python",
+    "expected_required": [
+      "Python"
+    ],
+    "expected_matched": [
+      "Python"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "negated_resume",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nGit\nWork Experience\nExample Organisation, 2020-2024\nNo experience with Python.\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python, Git",
+    "expected_required": [
+      "Python",
+      "Git"
+    ],
+    "expected_matched": [
+      "Git"
+    ],
+    "expected_missing": [
+      "Python"
+    ],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "negated_jd",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Docker\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Requirements\nPython required.\nDocker not required.",
+    "expected_required": [
+      "Python"
+    ],
+    "expected_matched": [
+      "Python"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "prose_fallback",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, Django\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Backend Developer\nWe need Python and Django experience. Docker is optional.",
+    "expected_required": [
+      "Python",
+      "Django"
+    ],
+    "expected_matched": [
+      "Python",
+      "Django"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [
+      "Docker"
+    ],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "punctuated_languages",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nC++, C#\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: C++, C#",
+    "expected_required": [
+      "C++",
+      "C#"
+    ],
+    "expected_matched": [
+      "C++",
+      "C#"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "standard",
+    "name": "Riya Kapoor"
+  },
+  {
+    "id": "two_column",
+    "resume": "Riya Kapoor\nriya@example.com\n+91 9876543210\nSummary\nExperienced professional with documented projects.\nTechnical Skills\nPython, SQL, Docker\nWork Experience\nExample Organisation, 2020-2024\n\nEducation\nBachelor degree, 2020",
+    "jd": "Required Skills: Python, SQL, Docker",
+    "expected_required": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "expected_matched": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "expected_missing": [],
+    "expected_preferred": [],
+    "layout": "two_column",
+    "name": "Riya Kapoor"
+  }
+]

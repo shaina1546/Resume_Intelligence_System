@@ -1,0 +1,60 @@
+# ============================================================
+# .gitignore — Resume Intelligence System
+# ============================================================
+
+# --- Python bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Environment / secrets ---
+.env
+.streamlit/secrets.toml
+
+# --- Uploaded resumes (PRIVACY: never commit user documents) ---
+uploads/
+temp/
+*.pdf
+
+# --- SQLite databases (may contain analysis results) ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Logs ---
+*.log
+logs/
+
+# --- pytest / coverage ---
+.pytest_cache/
+htmlcov/
+.coverage
+*.coverage
+
+# --- OS artifacts ---
+.DS_Store
+Thumbs.db
+
+# --- Hugging Face / sentence-transformers model cache ---
+# These are large binary files; let each user download them locally.
+.cache/
+models/
+huggingface/
+
+# --- IDEs ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Distribution / packaging ---
+dist/
+build/
+*.egg-info/

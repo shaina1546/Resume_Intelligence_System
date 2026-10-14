@@ -1,0 +1,5 @@
+resume_id,jd_id,human_match_score,system_match_score,notes
+# Human match score: 0–100 assigned by a human reviewer.
+# System match score: filled in automatically after running the pipeline.
+# Example:
+# R001,JD001,75,,
